@@ -12,7 +12,7 @@ get '/' do
   content_type "text/plain"
   message = params[:message]
   if message == nil
-    message = "Yo can set a message by adding ?message=<message here> to the URL"
+    message = "You can now set a message by adding ?message=<message here> to the URL"
   end
 
   Cowsay.say(message, "random")
