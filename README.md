@@ -4,7 +4,7 @@ We provide a sample app using Ruby that you can deploy on App Platform. These st
 
 **Note: Following these steps may result in charges for the use of DigitalOcean services.**
 
-### Requirements
+### Requirements:
 
 * You need a DigitalOcean account. If you don't already have one, you can sign up at https://cloud.digitalocean.com/registrations/new
 
